@@ -1,6 +1,7 @@
 # My awesome TF module
 
 ## Usage
+Sample usage:
 ~~~
 module "compute_structure" {
   source = "https://github.com/mayoloving/mymodules/compute_module"
